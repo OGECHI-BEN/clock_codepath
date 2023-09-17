@@ -1,0 +1,19 @@
+* {
+    background-color: darkgreen;
+    margin: auto;
+    box-sizing: border-box;
+    /* background-image: linear-gradient(rgba(255, 166, 0, 0.595),rgb(189, 180, 180)); */
+}
+
+
+#clock {
+    border: 5px white solid;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
+    font-weight: 800;
+    margin-top: 250px;
+    padding: 20px;
+    width: 65%;
+    border-radius: 10px;
+}
