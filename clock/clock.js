@@ -29,7 +29,7 @@ function myTime(){
   hour < 10
       ? '0' + hour
       :hour;
- min =
+ min =z
   min < 10
       ? '0' + min
       :min;
